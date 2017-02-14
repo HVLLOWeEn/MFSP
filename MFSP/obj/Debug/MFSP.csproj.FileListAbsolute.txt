@@ -1,0 +1,10 @@
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\bin\Debug\MFSP.exe.config
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\bin\Debug\MFSP.exe
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\bin\Debug\MFSP.pdb
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Debug\MFSP.csprojResolveAssemblyReference.cache
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Debug\MFSP.Form1.resources
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Debug\MFSP.Properties.Resources.resources
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Debug\MFSP.csproj.GenerateResource.Cache
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Debug\MFSP.exe
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Debug\MFSP.pdb
+c:\users\hvllo\onedrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Debug\MFSP.Form2.resources

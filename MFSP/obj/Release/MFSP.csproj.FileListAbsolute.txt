@@ -1,0 +1,9 @@
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\bin\Release\MFSP.exe.config
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\bin\Release\MFSP.exe
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\bin\Release\MFSP.pdb
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Release\MFSP.Form1.resources
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Release\MFSP.Form2.resources
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Release\MFSP.Properties.Resources.resources
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Release\MFSP.csproj.GenerateResource.Cache
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Release\MFSP.exe
+C:\Users\HVLLO\OneDrive\документы\visual studio 2015\Projects\MFSP\MFSP\obj\Release\MFSP.pdb
